@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @savant250
 - 👀 I’m interested in learning coding 
-- 🌱 I’m currently learning Python for Economics
+- 🌱 I’m currently learning Tools for Data Science
 - 💞️ I’m looking to collaborate on various projects. 
 - 📫 How to reach me at nzayi.savant1@gmail.com
 
